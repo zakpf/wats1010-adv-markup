@@ -1,1 +1,63 @@
 /* Styles for the Advanced Markup assignment. */
+
+/* index.html */
+
+.top-nav li {
+	display:inline;
+	
+}
+
+.top-nav li:hover {
+	background-color:yellow;
+}
+
+#sidebar {
+	display: inline-block;
+	width: 500px;
+	height: auto;
+	margin-left: 5em;
+}
+
+#sidebar li {
+	display:inline;
+}
+
+#sidebar li:hover {
+	background-color:yellow;
+}
+
+#content li {
+	list-style:none;
+	line-height:1.5;
+	font-style:italic;
+}
+
+.bottom-nav li {
+	display: inline;
+}
+
+.bottom-nav li:hover {
+	background-color:yellow;
+}
+/* index html finished */
+
+/* About Poe CSS */
+
+.bio-photo {
+	  float: left;
+      margin-right: 5px;
+      margin-bottom: 5px;
+	  margin-top: 3px;
+      width: 20.6%;
+	  background-color: #D1D1E0;
+	  padding-top: 4px;
+      padding-left: 4px;
+}
+
+#selected_works th, td {
+	border:1px black solid;
+}
+
+
+
+
